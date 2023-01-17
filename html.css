@@ -1,0 +1,30 @@
+﻿body {
+    background-color: #ffc107
+}
+
+h1 {
+    font-variant: inherit;
+    font-style: initial;
+    text-align: left;
+    line-height: 100%;
+}
+
+section {
+    background-color: #e5e988;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px;
+    width: 980px;
+}
+
+a:link,
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
